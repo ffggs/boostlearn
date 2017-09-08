@@ -1,0 +1,1 @@
+在使用propertysheet前需先确保定义了 BOOST_DIR 宏用以指向boost目录
